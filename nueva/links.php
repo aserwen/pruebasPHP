@@ -1,4 +1,4 @@
-
+<center>
 
 <p>
 <a href="index.php">
@@ -14,6 +14,12 @@
 </a>
 &nbsp&nbsp&nbsp
 <a href="delete.php">
-	APAGAR
+	ELIMINAR
 </a>
 &nbsp&nbsp&nbsp
+<a href="search.php">
+	BUSCAR
+</a>
+&nbsp&nbsp&nbsp
+
+    </center>
